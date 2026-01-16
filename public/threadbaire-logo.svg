@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="156.19235mm"
+   height="147.5493mm"
+   viewBox="0 0 156.19235 147.5493"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1"
+     transform="translate(-26.507499,-74.578149)">
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#00a551;stroke-width:14.1111px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 175.6443,148.3087 c 0,36.86528 -31.83819,66.7632 -71.08473,66.7632 -39.246521,0 -70.996521,-29.89792 -70.996521,-66.7632 0,-36.77709 31.75,-66.675001 70.996521,-66.675001 39.24654,0 71.08473,29.897911 71.08473,66.675001 z"
+       id="path1" />
+    <path
+       style="fill:none;stroke:#00a551;stroke-width:14.1111px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 116.55402,136.04967 c 0,18.25625 -6.4382,32.98473 -14.3757,32.98473 -7.937498,0 -14.375688,-14.72848 -14.375688,-32.98473 0,-18.16806 6.43819,-32.89653 14.375688,-32.89653 7.9375,0 14.3757,14.72847 14.3757,32.89653 z"
+       id="path2" />
+    <path
+       style="fill:none;stroke:#00a551;stroke-width:14.1111px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 101.82555,171.59203 v 45.15556"
+       id="path3" />
+    <path
+       style="fill:none;stroke:#00a551;stroke-width:7.76111px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 49.438049,110.91425 c 1.411111,4.67431 44.097223,27.60487 63.411801,27.60487"
+       id="path4" />
+    <path
+       style="fill:none;stroke:#00a551;stroke-width:7.05556px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="M 175.6443,154.6587 C 150.68527,137.2844 143.18874,142.66426 110.73319,137.2844"
+       id="path5" />
+  </g>
+</svg>
