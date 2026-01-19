@@ -87,6 +87,13 @@ You can filter what the AI sees:
 ?after=2025-01-01
 ?q=keyword
 ```
+## AI agent integration
+
+This server includes a `/api/rundown` endpoint that follows the [RundownAPI spec](https://github.com/threadbaire/rundownapi).
+
+Point an AI agent at `/api/rundown` and it will learn how to use the API on its own — what endpoints exist, how to authenticate, and when to use them.
+
+No auth required to read the rundown. The AI will ask you for the token when it needs to make authenticated requests.
 
 ## Deploying to Vercel
 
