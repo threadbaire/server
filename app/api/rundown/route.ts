@@ -168,6 +168,16 @@ export async function GET(request: NextRequest) {
       ],
       config_needed: ['THREADBAIRE_URL', 'THREADBAIRE_TOKEN'],
     },
+
+    // OPTIONAL: RundownAPI spec provenance
+    provenance: {
+      id: 'threadbaire:rundownapi',
+      spec_url: 'https://github.com/threadbaire/rundownapi',
+      repo_url: 'https://github.com/threadbaire/rundownapi',
+      license: 'CC BY-SA 4.0',
+      attribution_text:
+        'Uses RundownAPI (Threadbaire): https://github.com/threadbaire/rundownapi',
+    },
   };
 
   return NextResponse.json(response, {
